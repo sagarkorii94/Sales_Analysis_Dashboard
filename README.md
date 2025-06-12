@@ -53,4 +53,5 @@ The objective of this project is to transform raw sales and shipment data into a
 ---
 
 ## 📁 Project Structure
-📁Power BI-https://github.com/sagarkorii94/Sales_Analysis_Dashboard/blob/main/Sales_Analytics_Dashboard.pbix
+# 📁Power BI-https://github.com/sagarkorii94/Sales_Analysis_Dashboard/blob/main/Sales_Analytics_Dashboard.pbix
+# 📁Excel File-https://github.com/sagarkorii94/Sales_Analysis_Dashboard/blob/main/Sales_Analytics_Dashboard.pbix
