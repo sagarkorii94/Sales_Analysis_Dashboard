@@ -57,5 +57,5 @@ The objective of this project is to transform raw sales and shipment data into a
  📁Excel File-https://github.com/sagarkorii94/Sales_Analysis_Dashboard/blob/main/Sales_Analytics_Dashboard.pbix
 
 ## Preview
-
+![image alt](https://github.com/sagarkorii94/Sales_Analysis_Dashboard/blob/f426711d5337e596f503aa76bdc5d2843ffb5c1d/Project-Screenshot.png)
 
