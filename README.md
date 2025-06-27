@@ -63,6 +63,6 @@ The objective of this project is to transform raw sales and shipment data into a
 ---
 
 ## 👨‍💻 Author
-**Saagar Kori**  
+**Sagar Kori**  
 💼 Data Analyst | AutoCAD & SQL Enthusiast | Power BI Explorer  
 
