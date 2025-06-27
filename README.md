@@ -60,3 +60,9 @@ The objective of this project is to transform raw sales and shipment data into a
 ## Preview
 ![image alt](https://github.com/sagarkorii94/Sales_Analysis_Dashboard/blob/f426711d5337e596f503aa76bdc5d2843ffb5c1d/Project-Screenshot.png)
 
+---
+
+## 👨‍💻 Author
+**Saagar Kori**  
+💼 Data Analyst | AutoCAD & SQL Enthusiast | Power BI Explorer  
+
